@@ -1,0 +1,26 @@
+#output{
+    background: aliceblue;
+    border-radius: 10px;
+    border-top: 10px solid #bf942e;
+    padding: 10px;
+    float: none;
+    text-align: left;
+    width: 500px;
+}
+
+.body_background{
+    background-color: darkslateblue;
+}
+
+.main_text{
+    color: cornsilk;
+}
+
+#quesTrn{
+    color: aquamarine;
+}
+
+#ansTrn{
+    color: aquamarine;
+}
+
